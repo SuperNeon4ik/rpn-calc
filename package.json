@@ -1,0 +1,11 @@
+{
+  "name": "rpn-calc",
+  "version": "1.0.0",
+  "description": "Reverce Polish Notation Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Nazar Shurubor",
+  "license": "ISC"
+}
